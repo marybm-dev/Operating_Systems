@@ -1,0 +1,9 @@
+This is the input text file.
+
+In other words, my homework assignment #3 (process_sync.py) is going to read this and then write it to my output file.
+
+This assignment creates two threads, one for producer and one for consumer. The user calling this script will provide the size (n) which represents that maximum size of bytes to read. Also provided is the size (m) of the buffer to use.
+
+Program syntax is as follow:
+
+	copyfile input output n m
